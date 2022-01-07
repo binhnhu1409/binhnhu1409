@@ -1,6 +1,6 @@
 # 👋 Hello, there :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: I'm Nhu, welcome to my GitHub! :confetti_ball:
 
-Hi again, I'm a junior self-taught web developer (more into Front End Developer, but I'm trying my best :muscle: to become a Full Stack Developer). I come from a beach city of Vietnam :ocean::palm_tree:, but now living in Finland :evergreen_tree::snowflake:. I'm looking for opportunities to collaborate on something pratical while expading my knowledge in the field.
+Hi again, I'm a junior self-taught web developer (more into Front End Developer, but I'm trying my best :muscle: to become a Full Stack Developer). I come from a beach city of Vietnam :ocean::palm_tree:, but now living in Finland :evergreen_tree::snowflake:. I'm looking for opportunities to work on pratical projects while expanding my knowledge in the field.
 
 
 ## Skill set: 
@@ -11,9 +11,9 @@ Hi again, I'm a junior self-taught web developer (more into Front End Developer,
 
 
 ## Project:
-This is my most recent project on web developing:
+This is my most recent project on web developing for a company in Espoo, Finland:
 
-<img align="right" src="https://github.com/binhnhu1409/binhnhu1409/blob/main/site%20icone.png" width="80" alt="YS project"> 
+<img align="right" src="https://github.com/binhnhu1409/binhnhu1409/blob/main/assets/site%20icone.png" width="80" alt="YS project"> 
 
 [YieldSystem Website Project](https://yieldsystems.tech/)
 
