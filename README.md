@@ -9,6 +9,12 @@ Hi again, I'm a junior self-taught web developer (more into Front End Developer,
 <img src="https://github.com/binhnhu1409/binhnhu1409/blob/main/assets/Flask-logo.svg" alt="Flask" width="48"> <img src="https://github.com/binhnhu1409/binhnhu1409/blob/main/assets/Git-Icon-1788C.png" alt="Git" width="60"> <img src="https://github.com/binhnhu1409/binhnhu1409/blob/main/assets/The_C_Programming_Language_logo.svg.png" alt="C" width="60"> <img src="https://github.com/binhnhu1409/binhnhu1409/blob/main/assets/Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="60"> <img src="https://github.com/binhnhu1409/binhnhu1409/blob/main/assets/bootstrap-5-1.svg" alt="Bootstrap" width="60"> <img src="https://github.com/binhnhu1409/binhnhu1409/blob/main/assets/kisspng-microsoft-azure-sql-database-microsoft-sql-server-database-5abeaece642720.1956423515224460304102.jpg" alt="SQL" width="80">
 <img src="https://github.com/binhnhu1409/binhnhu1409/blob/main/assets/imgbin-atom-source-code-editor-text-editor-logo-visual-studio-code-design-NxGq2hxzHBa5NzxUUkNLyyhMP.jpg" alt="Atom" width="60">  
 
+- LANGUAGE SKILL:
+ 
+    - English 
+    - Finnish --- B1
+    - Vietnamese --- native
+    - Chinese --- beginner
 
 ## Project:
 This is my most recent project on web developing for a company in Espoo, Finland:
