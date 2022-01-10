@@ -37,6 +37,7 @@ A school project on Service Design at [Diversity](https://diverscity.fi/) (NDA s
 ## I’m currently learning:
 - More JavaScript
 - React
+- cs50x Introduction to Computer Science, HarvardX on edX
 
 ## I’ll learn in this 2022:
 - TypeScript
