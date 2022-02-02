@@ -1,13 +1,14 @@
 # 👋 Hello, there :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: I'm Nhu, welcome to my GitHub! :confetti_ball:
 
-Hi again, I'm a junior self-taught web developer (more into Front End Developer, but I'm trying my best :muscle: to become a Full Stack Developer). I'm come from a beach city of Vietnam :ocean::palm_tree:, but now living in Finland :evergreen_tree::snowflake:. I'm looking for opportunities to work on pratical projects while expanding my knowledge in the field.
+Hi again, I'm a junior self-taught web developer (more into Front End Developer, but I'm trying my best :muscle: to become a Full Stack Developer). I'm come from a beach city of Vietnam :ocean::palm_tree:, but now living in Finland :evergreen_tree::snowflake:. I'm looking for opportunities to work on pratical projects while expanding my knowledge in the field. Find my CV [here](https://github.com/binhnhu1409/binhnhu1409/blob/main/assets/CV_Nhu_Nguyen_2022%20(1).pdf).
 
 
 ## Skill set: 
 
 <img src="https://github.com/binhnhu1409/binhnhu1409/blob/main/assets/1200px-Python-logo-notext.svg.png" alt="Python" width="60">    <img src="https://github.com/binhnhu1409/binhnhu1409/blob/main/assets/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML" width="60">  <img src="https://github.com/binhnhu1409/binhnhu1409/blob/main/assets/css.svg" alt="CSS" width="43">  <img src="https://github.com/binhnhu1409/binhnhu1409/blob/main/assets/javascript-logo-8892AEFCAC-seeklogo.com.png" alt="JavaScript" width="43">
 <img src="https://github.com/binhnhu1409/binhnhu1409/blob/main/assets/Flask-logo.svg" alt="Flask" width="48"> <img src="https://github.com/binhnhu1409/binhnhu1409/blob/main/assets/Git-Icon-1788C.png" alt="Git" width="60"> <img src="https://github.com/binhnhu1409/binhnhu1409/blob/main/assets/The_C_Programming_Language_logo.svg.png" alt="C" width="60"> <img src="https://github.com/binhnhu1409/binhnhu1409/blob/main/assets/Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="60"> <img src="https://github.com/binhnhu1409/binhnhu1409/blob/main/assets/bootstrap-5-1.svg" alt="Bootstrap" width="60"> <img src="https://github.com/binhnhu1409/binhnhu1409/blob/main/assets/kisspng-microsoft-azure-sql-database-microsoft-sql-server-database-5abeaece642720.1956423515224460304102.jpg" alt="SQL" width="80">
-<img src="https://github.com/binhnhu1409/binhnhu1409/blob/main/assets/imgbin-atom-source-code-editor-text-editor-logo-visual-studio-code-design-NxGq2hxzHBa5NzxUUkNLyyhMP.jpg" alt="Atom" width="60">  
+<img src="https://github.com/binhnhu1409/binhnhu1409/blob/main/assets/imgbin-atom-source-code-editor-text-editor-logo-visual-studio-code-design-NxGq2hxzHBa5NzxUUkNLyyhMP.jpg" alt="Atom" width="60">
+<img src="https://github.com/binhnhu1409/binhnhu1409/blob/main/assets/reactjs.png" alt="Reactjs" width="120"> 
 
 - LANGUAGE SKILL:
  
@@ -36,8 +37,9 @@ A school project on Service Design at [Diversity](https://diverscity.fi/) (NDA s
 
 ## I’m currently learning:
 - More JavaScript
-- React
-- cs50x Introduction to Computer Science, HarvardX on edX
+- React - LinkedIn course
+- cs50x Introduction to Computer Science, HarvardX on edX - Focus on computer science principle, thinking algorithmically, real life problem solving efficiently on multiple programming languages.
+- cs50w Web Programming with Python and JavaScript, HarvardX on edX.
 
 ## I’ll learn in this 2022:
 - TypeScript
