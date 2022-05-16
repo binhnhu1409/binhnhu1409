@@ -22,17 +22,15 @@ This is my most recent project on web developing for a company in Espoo, Finland
 
 <img align="right" src="https://github.com/binhnhu1409/binhnhu1409/blob/main/assets/site%20icone.png" width="80" alt="YS project"> 
 
-[YieldSystem Website Project](https://yieldsystems.tech/)
+1 - [YieldSystem Website Project](https://yieldsystems.tech/)
 
 <img src="https://img.shields.io/badge/Front%20end-Dev-orange" alt="Front-end">  <img src="https://img.shields.io/badge/%3D-Ghost%20Blog-lightgrey" alt="Ghost"> <img src="https://img.shields.io/badge/B-Bootstrap-blueviolet" alt="Bootstrap"> <img src="https://img.shields.io/badge/HTML-CSS-blue" alt="HTML CSS"> <img src="https://img.shields.io/badge/API-Placeholder-9cf" alt="API"> 
 
-
-
-**I’m currently working on:**
-
-A school project on Service Design at [Diversity](https://diverscity.fi/) (NDA signed with the company and organization) will end at the end of Feb.
+2 - A school project on Service Design at [Diversity](https://diverscity.fi/) (NDA signed with the company and organization).
 
 <img src="https://img.shields.io/badge/UX%20design-UI%20design-brightgreen" alt="UX/UI Design"> <img src="https://img.shields.io/badge/-Figma-ff69b4" alt="Figma"> <img src="https://img.shields.io/badge/-Miro-FFF323" alt="Miro"> <img src="https://img.shields.io/badge/-Double%20Diamond%20process-FEECE9" alt="double diamond process"> <img src="https://img.shields.io/badge/Customer%20Journey%20Map-Blueprint-blue" alt="Customer journey map - Blueprint">
+
+**I’m currently a trainee at Integrify**
 
 
 ## I’m currently learning:
@@ -40,6 +38,7 @@ A school project on Service Design at [Diversity](https://diverscity.fi/) (NDA s
 - React - LinkedIn course
 - cs50x Introduction to Computer Science, HarvardX on edX - Focus on computer science principle, thinking algorithmically, real life problem solving efficiently on multiple programming languages.
 - cs50w Web Programming with Python and JavaScript, HarvardX on edX.
+- Full Stack Academy at Integrify
 
 ## I’ll learn in this 2022:
 - TypeScript
