@@ -55,9 +55,5 @@ This is my most recent project on web developing for a company in Espoo, Finland
 
 ### 💬 Some statistics:
 
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=binhnhu1409" />
-</a>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=binhnhu1409&theme=dark)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binhnhu1409&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=binhnhu1409&theme=dark)](https://git.io/streak-stats) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=binhnhu1409&show_icons=true&theme=dracula)
