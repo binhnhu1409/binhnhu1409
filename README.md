@@ -56,4 +56,4 @@ This is my most recent project on web developing for a company in Espoo, Finland
 ### 💬 Some statistics:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=binhnhu1409&theme=dark)](https://git.io/streak-stats) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=binhnhu1409&show_icons=true&theme=dracula)
+
