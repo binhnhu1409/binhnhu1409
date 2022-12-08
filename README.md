@@ -59,4 +59,5 @@ This is my most recent project on web developing for a company in Espoo, Finland
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=binhnhu1409" />
 </a>
 
-[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=binhnhu1409&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=binhnhu1409&theme=dark)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binhnhu1409&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
