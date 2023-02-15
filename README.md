@@ -10,6 +10,9 @@ Hi again, I'm a junior self-taught web developer (more into Front End Developer,
 <img src="https://github.com/binhnhu1409/binhnhu1409/blob/main/assets/imgbin-atom-source-code-editor-text-editor-logo-visual-studio-code-design-NxGq2hxzHBa5NzxUUkNLyyhMP.jpg" alt="Atom" width="60">
 <img src="https://github.com/binhnhu1409/binhnhu1409/blob/main/assets/reactjs.png" alt="Reactjs" width="120"> 
 
+<img src="https://img.shields.io/badge/TypeScript-4.9-orange?style=for-the-badge&logo=appveyor" alt ="TypeScript"> <img src="https://img.shields.io/badge/NodeJS-v18-orange?style=for-the-badge&logo=appveyor" alt ="NodeJS">
+
+
 - LANGUAGE SKILL:
  
     - English 
@@ -34,18 +37,18 @@ This is my most recent project on web developing for a company in Espoo, Finland
 
 
 ## I’m currently learning:
-- More JavaScript
+- C#
 - React - LinkedIn course
 - cs50x Introduction to Computer Science, HarvardX on edX - Focus on computer science principle, thinking algorithmically, real life problem solving efficiently on multiple programming languages.
 - cs50w Web Programming with Python and JavaScript, HarvardX on edX.
-- Full Stack Academy at Integrify
+- Microsoft Academy at Integrify
+- AWS Cloud Practitioner Certificate
 
-## I’ll learn in this 2022:
-- TypeScript
-- NodeJS
-- C#
+## I’ll learn in this 2023:
 - CD/CI
-- Cloud Service
+- Cloud Service Azure
+- Docker
+- DevOps
 
 ### 📫 How to reach me:
 
