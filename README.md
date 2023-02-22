@@ -33,7 +33,7 @@ This is my most recent project on web developing for a company in Espoo, Finland
 
 <img src="https://img.shields.io/badge/UX%20design-UI%20design-brightgreen" alt="UX/UI Design"> <img src="https://img.shields.io/badge/-Figma-ff69b4" alt="Figma"> <img src="https://img.shields.io/badge/-Miro-FFF323" alt="Miro"> <img src="https://img.shields.io/badge/-Double%20Diamond%20process-FEECE9" alt="double diamond process"> <img src="https://img.shields.io/badge/Customer%20Journey%20Map-Blueprint-blue" alt="Customer journey map - Blueprint">
 
-**I’m currently a trainee at Integrify**
+**I’m currently a trainee at [Integrify](https://www.integrify.io/)**
 
 
 ## I’m currently learning:
