@@ -10,6 +10,9 @@ Hi again, I'm a junior self-taught web developer (more into Front End Developer,
 <img src="https://github.com/binhnhu1409/binhnhu1409/blob/main/assets/imgbin-atom-source-code-editor-text-editor-logo-visual-studio-code-design-NxGq2hxzHBa5NzxUUkNLyyhMP.jpg" alt="Atom" width="60">
 <img src="https://github.com/binhnhu1409/binhnhu1409/blob/main/assets/reactjs.png" alt="Reactjs" width="120"> 
 
+<img src="https://img.shields.io/badge/TypeScript-4.9-orange?style=for-the-badge&logo=appveyor" alt ="TypeScript"> <img src="https://img.shields.io/badge/NodeJS-v18-orange?style=for-the-badge&logo=appveyor" alt ="NodeJS">
+
+
 - LANGUAGE SKILL:
  
     - English 
@@ -30,22 +33,22 @@ This is my most recent project on web developing for a company in Espoo, Finland
 
 <img src="https://img.shields.io/badge/UX%20design-UI%20design-brightgreen" alt="UX/UI Design"> <img src="https://img.shields.io/badge/-Figma-ff69b4" alt="Figma"> <img src="https://img.shields.io/badge/-Miro-FFF323" alt="Miro"> <img src="https://img.shields.io/badge/-Double%20Diamond%20process-FEECE9" alt="double diamond process"> <img src="https://img.shields.io/badge/Customer%20Journey%20Map-Blueprint-blue" alt="Customer journey map - Blueprint">
 
-**I’m currently a trainee at Integrify**
+**I’m currently a trainee at [Integrify](https://www.integrify.io/)**
 
 
 ## I’m currently learning:
-- More JavaScript
+- C#
 - React - LinkedIn course
 - cs50x Introduction to Computer Science, HarvardX on edX - Focus on computer science principle, thinking algorithmically, real life problem solving efficiently on multiple programming languages.
 - cs50w Web Programming with Python and JavaScript, HarvardX on edX.
-- Full Stack Academy at Integrify
+- Microsoft Academy at Integrify
+- AWS Cloud Practitioner Certificate
 
-## I’ll learn in this 2022:
-- TypeScript
-- NodeJS
-- C#
+## I’ll learn in this 2023:
 - CD/CI
-- Cloud Service
+- Cloud Service Azure
+- Docker
+- DevOps
 
 ### 📫 How to reach me:
 
@@ -55,8 +58,5 @@ This is my most recent project on web developing for a company in Espoo, Finland
 
 ### 💬 Some statistics:
 
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=binhnhu1409" />
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=binhnhu1409&theme=dark)](https://git.io/streak-stats) 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=binhnhu1409&theme=dark)](https://git.io/streak-stats)
