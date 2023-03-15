@@ -1,6 +1,6 @@
 # 👋 Hello, there :four_leaf_clover: :four_leaf_clover: :four_leaf_clover: I'm Nhu, welcome to my GitHub! :confetti_ball:
 
-Hi again, I'm a junior self-taught web developer (more into Front End Developer, but I'm trying my best :muscle: to become a Full Stack Developer). I'm come from a beach city of Vietnam :ocean::palm_tree:, but now living in Finland :evergreen_tree::snowflake:. I'm looking for opportunities to work on pratical projects while expanding my knowledge in the field. Find my CV [here](https://github.com/binhnhu1409/binhnhu1409/blob/main/assets/CV_Nhu_Nguyen_2022%20(1).pdf).
+Hi again, I'm a junior self-taught web developer (more into Front End Developer, but I'm trying my best :muscle: to become a Full Stack Developer). I'm come from a beach city of Vietnam :ocean::palm_tree:, but now living in Finland :evergreen_tree::snowflake:. I'm looking for opportunities to work on pratical projects while expanding my knowledge in the field. Find my CV [here](https://github.com/binhnhu1409/binhnhu1409/blob/main/assets/CV_Nhu_12.2022.pdf).
 
 
 ## Skill set: 
